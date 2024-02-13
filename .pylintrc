@@ -1,5 +1,6 @@
 [MAIN]
 disable=
+      C0103, # module doesn't conform to snake_case naming style
       C0114, # missing-module-docstring
       C0115, # missing-class-docstring
       C0116, # missing-function-docstring
